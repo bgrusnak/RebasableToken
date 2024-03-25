@@ -1,0 +1,17 @@
+{
+  "name": "RebasableToken",
+  "version": "0.0.1",
+  "description": "The auto rebasable token",
+  "main": "index.js",
+  "repository": "git@github.com:bgrusnak/RebasableToken.git",
+  "author": "Ilya A. Shlyakhovoy <bulgarus@inbox.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.2",
+    "prettier": "^3.2.5",
+    "prettier-plugin-solidity": "^1.3.1"
+  }
+}
